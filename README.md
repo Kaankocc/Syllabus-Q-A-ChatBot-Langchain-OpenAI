@@ -2,6 +2,8 @@
 
 Syllabus Q&A Bot is a Streamlit-based application that allows users to upload a course syllabus (PDF), ask questions about it, and receive answers based on document content and historical chat interactions.
 
+<img src="img/screenshot.png"  width="800">
+
 ## Features
 
 - **Upload Syllabus:** Users can upload their course syllabus in PDF format.
@@ -47,4 +49,4 @@ Syllabus Q&A Bot is a Streamlit-based application that allows users to upload a 
    streamlit run app.py
    ```
 
-<img src="img/screenshot.png"  width="800">
+
